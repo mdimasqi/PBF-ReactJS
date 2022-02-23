@@ -1,6 +1,8 @@
+// .. the starter code you pasted ...
 const e = React.createElement;
 
-function LikeButton(){
+function LikeButton() {
+    // Display a "Like" <button>
     return e(
         'button',
         {
@@ -8,7 +10,13 @@ function LikeButton(){
         },
         'Like'
     );
+
+
 }
 
+// const button=()=>{
+//    return <button>Like</button>
+// }
+
 const domContainer = document.querySelector('#like_button_container');
-ReactDOM.render(e(LikeButton), domContainer)
+ReactDOM.render(e(LikeButton), domContainer);
