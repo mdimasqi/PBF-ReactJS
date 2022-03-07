@@ -8,4 +8,5 @@ import React, { Component } from 'react';
                 </div>
             );
         }
-}export default Header;
+}
+export default Header;
