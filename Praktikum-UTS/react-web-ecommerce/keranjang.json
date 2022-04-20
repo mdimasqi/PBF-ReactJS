@@ -1,0 +1,20 @@
+{
+  "carts": [
+    {
+      "id": 1649860860478,
+      "id_product": 1,
+      "name": "Mesin Cuci 8 Kg 2 Tabung DENPOO DW 828 4 P Dengan Papan Penggilas",
+      "price": 1352000,
+      "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/6/19/749e2236-a3c4-4c4a-af1b-da787f84e48c.jpg",
+      "qty": 2
+    },
+    {
+      "id": 1649862090790,
+      "id_product": 1649862076824,
+      "name": "test",
+      "price": "23232323",
+      "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/1/15/f1230172-b579-4b06-8e57-e0af89034b61.jpg",
+      "qty": 4
+    }
+  ]
+}

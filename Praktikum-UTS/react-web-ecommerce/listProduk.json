@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "stock": 50,
+      "name": "Mesin Cuci 8 Kg 2 Tabung DENPOO DW 828 4 P Dengan Papan Penggilas",
+      "price": 1352000,
+      "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/6/19/749e2236-a3c4-4c4a-af1b-da787f84e48c.jpg",
+      "id": 1
+    },
+    {
+      "stock": 59,
+      "name": "DENPOO MESIN CUCI DW 8907 4P 8KG 2 TABUNG - Hitam - DW 8907B",
+      "price": 1197000,
+      "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/18/d3e0378e-b043-4569-ac1b-e2c80cf43684.jpg",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Mesin Cuci Denpoo 1 Tabung DWF 073 HT Top Loading 7 KG DWF073HT",
+      "price": 1819000,
+      "stock": 60,
+      "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2022/3/22/6f163505-94d7-4884-a722-16b6796e5bb8.jpg"
+    },
+    {
+      "id": 4,
+      "name": "MESIN CUCI PORTABLE MESIN CUCI LIPAT MINI FOLDING WASHING MACHINE - Merah Muda",
+      "price": 559000,
+      "stock": 60,
+      "image": "https://images.tokopedia.net/img/cache/900/VqbcmM/2021/10/29/a6b431e0-e5d3-4589-809f-4b7eed397fb4.jpg"
+    }
+  ]
+}
